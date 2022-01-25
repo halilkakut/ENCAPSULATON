@@ -1,0 +1,16 @@
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.exe
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.deps.json
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.runtimeconfig.json
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.runtimeconfig.dev.json
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.dll
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ref\ENCAPSULATON.dll
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\bin\Debug\net5.0\ENCAPSULATON.pdb
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.AssemblyInfoInputs.cache
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.AssemblyInfo.cs
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.dll
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ref\ENCAPSULATON.dll
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.pdb
+C:\Users\halil\Desktop\Pratikler\ENCAPSULATON\obj\Debug\net5.0\ENCAPSULATON.genruntimeconfig.cache
